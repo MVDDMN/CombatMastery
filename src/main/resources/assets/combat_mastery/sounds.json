@@ -1,0 +1,123 @@
+{
+  "great_sweep_cast": {
+    "sounds": [
+      "combat_mastery:great_sweep_cast"
+    ]
+  },
+
+  "great_sweep_fly": {
+    "sounds": [
+      {
+        "name": "combat_mastery:great_sweep_fly",
+        "stream": true
+      }
+    ]
+  },
+
+  "great_sweep_impact": {
+    "sounds": [
+      "combat_mastery:great_sweep_impact"
+    ]
+  },
+
+  "aftershock": {
+    "sounds": [
+      "combat_mastery:aftershock"
+    ]
+  },
+
+  "chain_lightning_cast": {
+    "sounds": [
+      "combat_mastery:chain_lightning_cast"
+    ]
+  },
+
+  "chain_lightning_bounce": {
+    "sounds": [
+      "combat_mastery:chain_lightning_bounce"
+    ]
+  },
+
+  "lightning_strike_cast": {
+    "sounds": [
+      "combat_mastery:lightning_strike_cast"
+    ]
+  },
+
+  "lightning_strike_ping": {
+    "sounds": [
+      "combat_mastery:lightning_strike_ping"
+    ]
+  },
+
+  "dice_roll_cast": {
+    "category": "hostile",
+    "sounds": [
+      "combat_mastery:dice_roll_cast"
+    ]
+  },
+
+  "dice_roll_roll": {
+    "category": "hostile",
+    "sounds": [
+      "combat_mastery:dice_roll_roll"
+    ]
+  },
+
+  "dice_roll_bad": {
+    "category": "hostile",
+    "sounds": [
+      "combat_mastery:dice_roll_bad"
+    ]
+  },
+
+  "dice_roll_ok": {
+    "category": "hostile",
+    "sounds": [
+      "combat_mastery:dice_roll_ok"
+    ]
+  },
+
+  "dice_roll_good": {
+    "category": "hostile",
+    "sounds": [
+      "combat_mastery:dice_roll_good"
+    ]
+  },
+
+  "homing_shot_cast": {
+    "category": "hostile",
+    "sounds": [
+      "combat_mastery:homing_shot_cast"
+    ]
+  },
+
+  "homing_shot_summon": {
+    "category": "hostile",
+    "sounds": [
+      "combat_mastery:homing_shot_summon"
+    ]
+  },
+
+  "homing_shot_fly": {
+    "category": "hostile",
+    "sounds": [
+      "combat_mastery:homing_shot_fly"
+    ]
+  },
+
+  "tornado_cast": {
+    "category": "hostile",
+    "sounds": [
+      "combat_mastery:tornado_cast"
+    ]
+  },
+
+  "tornado_fly": {
+    "category": "hostile",
+    "sounds": [
+      "combat_mastery:tornado_fly"
+    ]
+  }
+
+}
