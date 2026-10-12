@@ -184,10 +184,6 @@ Combat Mastery is intended to expand Minecraft's combat possibilities through:
 
 Suggestions, bug reports, and improvements are welcome. If you encounter an issue, include the Minecraft version, Forge version, relevant logs, and steps to reproduce the problem.
 
-## License
-
-No license has been specified yet. Unless a license is added to this repository, the project should not be assumed to permit redistribution, modification, or reuse.
-
 ---
 
 **Combat Mastery** — Expanding Minecraft combat through custom attributes, abilities, and entity mechanics.
